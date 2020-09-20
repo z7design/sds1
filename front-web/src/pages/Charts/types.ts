@@ -7,4 +7,3 @@ export type Game = {
     platform: Platform;
 
 }
-
